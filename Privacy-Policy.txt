@@ -1,4 +1,4 @@
-Octo AI Bot - Privacy Policy
+Okto AI Bot - Privacy Policy
 1. Information We Collect
 User ID: We collect your Discord user ID to identify and interact with you.
 Messages: We collect the messages you send to the bot to process your requests and generate responses.
